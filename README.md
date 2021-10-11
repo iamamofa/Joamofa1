@@ -5,7 +5,7 @@
  - 👯 I’m looking to collaborate on dart and python projects
  - 🤔 I’m looking for help with Deep learning moddelling
  - 💬 Ask me about any tech related stuff
- - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/justice-ohene-amofa-349b44173/)  ,  [Email](Justiceoheneamofa@gmail.com)
+ - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/justice-ohene-amofa-349b44173/)  ,  Justiceoheneamofa@gmail.com
  - ⚡ Fun fact: I watch Sleep alot
 
 
