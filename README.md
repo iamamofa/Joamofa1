@@ -7,7 +7,7 @@
  - 💬 Ask me about any tech related stuff
  
  - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
- - ⚡ Fun fact: I watch Sleep alot
+ - ⚡ Fun fact: I love to Sleep alot
 
 
 <h3 align="left">Connect with me:</h3>
