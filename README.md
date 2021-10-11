@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with Deep learning moddelling
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me:  [LinkedIn](https://www.linkedin.com/in/justice-ohene-amofa-349b44173/)  ,  [Email](Justiceoheneamofa@gmail.com)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I watch Sleep alot
