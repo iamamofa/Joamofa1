@@ -1,4 +1,4 @@
-ff### Hola , I am Justice Ohene Amofa 👋
+### Hola , I am Justice Ohene Amofa 👋
 
 - 🔭 I’m currently a level 300 Computer Science Student!
 - 🌱 I’m currently learning flutter
