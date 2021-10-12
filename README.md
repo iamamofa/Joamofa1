@@ -1,5 +1,8 @@
 <h1 align="center"> Hola 👋, I'm Justice Ohene Amofa</h1>
 
+ 
+![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
+
  - 🔭 I’m currently a level 300 Computer Science Student!
  - 🌱 I’m currently learning flutter
  - 👯 I’m looking to collaborate on dart and python projects
@@ -7,7 +10,7 @@
  - 💬 Ask me about any tech related stuff
  
  - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
- - ⚡ Fun fact: I love to Sleep alot
+ - ⚡ Fun fact: I Enjoy Sleeping
 
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +26,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Joamofa1&show_icons=true&locale=en&layout=compact" alt="Joamofa1" /></p>
 
 
+
+<h3 align="center"> My Building Semantics</h3>
+<div style="margin-top:10px">
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+## Thak You! :wink:
