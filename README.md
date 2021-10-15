@@ -6,7 +6,7 @@
  - 🔭 I’m currently a level 300 Computer Science Student!
  - 🌱 I’m currently learning flutter
  - 👯 I’m looking to collaborate on dart and python projects
- - 🤔 I’m looking for help with Deep learning moddelling
+ - 🤔 I’m looking for help with Deep learning modelling
  - 💬 Ask me about any tech related stuff
  
  - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
