@@ -39,4 +39,11 @@
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Joamofa1&theme=dark&hide_border=true)](https://git.io/streak-stats) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joamofa1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Joamofa1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Joamofa1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joamofa1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joamofa1&theme=github_dark)
+ 
 ## Thank You! :wink:
