@@ -3,7 +3,7 @@
  
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
- - 🔭 I’m currently a level 300 Computer Science Student!
+ - 🔭 I’m currently Computer Science Student!
  - 🌱 I’m currently learning flutter
  - 👯 I’m looking to collaborate on dart and python projects
  - 🤔 I’m looking for help with Deep learning modelling
