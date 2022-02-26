@@ -1,7 +1,7 @@
 <h1 align="center"> Hola 👋, I'm Justice Ohene Amofa</h1>
 
 
-![](https://github.com/Joamofa1/Joamofa1.github.io/blob/main/my.gif)
+![](<iframe src="https://embed.lottiefiles.com/animation/46207"></iframe>)
  
 ![](https://komarev.com/ghpvc/?username=Joamofa1&style=plastic&label=PROFILE+VIEWS)
 
