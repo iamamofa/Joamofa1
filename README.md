@@ -8,7 +8,7 @@
  - 🔭 I’m currently a Computer Science Student!
  - 🌱 I’m currently learning flutter
  - 👯 I’m looking to collaborate on dart and python projects
- - 🤔 I’m looking for help with Deep learning modelling
+ - 🤔 I’m looking for help with Deep learning modelling and Big Data
  - 💬 Ask me about any tech related stuff
  
  - 📫 How to reach me **Justiceoheneamofa@gmail.com**  
